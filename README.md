@@ -1,12 +1,12 @@
 # ClusteringAlgorithmsDTL
 
-This repository contains code to experiment the K Medoids and K Centers algorithms with real data from the Tree of Life Data set. This work accompanies *Clustering Algorithms for Maximum Parsimony DTL Reconciliations*, a paper submitted to **Algorithms for Molecular Biology** in July 2016. 
+This repository contains code to experiment the K Medoids and K Centers algorithms with real data from the Tree of Life Data set. This work accompanies *Clustering Algorithms for Maximum Parsimony DTL Reconciliations*. 
 
 * `n.b.:` The paper talks about using Multidimensional FFT for a faster implementation, that is **not** done in this code base.
 * This work is supported by the NSF Grant IIS-1419739.
 * Summer 2016 Researchers: Dani Bork, Ricson Cheng, Jean Sung and Jincheng Wang (aka South Pawns!!).
 * Advisor: Prof Ran Libeskind-Hadas.
-* Email `jsung@g.hmc.edu` to get access to past [experimental results](https://drive.google.com/drive/u/0/folders/0B9z84Or5GzOnX21VcjhlbXdYS0E).
+* Email `jeansung94@gmail.com` to get access to past [experimental results](https://drive.google.com/drive/u/0/folders/0B9z84Or5GzOnX21VcjhlbXdYS0E).
 
 
 ## For the casual user
